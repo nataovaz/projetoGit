@@ -1,3 +1,1 @@
-main() {
-  print('blabla');
-}
+class Home {}
